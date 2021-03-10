@@ -1,0 +1,7 @@
+option.ColorBlindnessType=Renk Körlüğü Tipi
+option.Severity=Şiddeti
+value.ColorBlindnessType.0=Normal Görüş
+value.ColorBlindnessType.1=Protanopi
+value.ColorBlindnessType.2=Döteranopi
+value.ColorBlindnessType.3=Tritanopi
+value.ColorBlindnessType.4=Akromatopsi

@@ -1,0 +1,7 @@
+option.ColorBlindnessType=Art der Farbenblindheit
+option.Severity=Stärke
+value.ColorBlindnessType.0=Normale Sicht
+value.ColorBlindnessType.1=Protanopie
+value.ColorBlindnessType.2=Deuteranopie
+value.ColorBlindnessType.3=Tritanopie
+value.ColorBlindnessType.4=Achromatopsie

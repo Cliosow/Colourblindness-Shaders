@@ -1,0 +1,7 @@
+option.ColorBlindnessType=Colourblindness Type
+option.Severity=Severity
+value.ColorBlindnessType.0=Normal Vision
+value.ColorBlindnessType.1=Protanopia
+value.ColorBlindnessType.2=Deuteranopia
+value.ColorBlindnessType.3=Tritanopia
+value.ColorBlindnessType.4=Achromatopsia
